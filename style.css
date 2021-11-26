@@ -1,0 +1,44 @@
+table{
+    border-radius: 10px; 
+    width: 500px;
+    height:300px;
+    background-color:#382020;
+    text-align: center;
+
+}
+._1{
+    text-align:center; 
+    background-color: rgb(95, 136, 20);
+}
+
+.one{
+background-color: brown;
+
+}
+
+._2{
+    text-align:center; 
+    background-color: rgba(21, 226, 253, 0.836);
+}
+
+._3{
+    text-align:center; 
+    background-color: rgb(212, 209, 19);
+
+}
+
+a{
+color:rgb(40, 56, 23);
+text-decoration:none;
+background-color:darkmagenta;
+}  
+
+.btm::after{
+display: inline-block;
+padding: 1rem 1.5rem;
+pointer-events: all;
+}
+
+td, th {
+    width: 250px;
+}
